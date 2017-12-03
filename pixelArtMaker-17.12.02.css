@@ -1,0 +1,28 @@
+body{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: center;
+	margin: 0;
+	padding: 0;
+	background-color: lightgrey;
+}
+.wrapper{
+	width: 721px;
+	height: 668px;
+	background-color: #fff;
+}
+h1{
+	font-size: 70px;
+	font-family: 'Monoton', cursive;
+	margin-bottom: 20px;
+}
+form{
+-ms-align-items: baseline;
+align-items: baseline;
+}
